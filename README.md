@@ -29,6 +29,7 @@ This is a simple currency converter made using:
 > 4.created basic wordpress page here: http://localhost/currency-converter/wp-admin and published.
 > 5.activated theme twentytwentyfour in wordpress dashboard.
 > 6.start xampp. start Apache. start mysql.
+> 7.create database in xampp: http://localhost/phpmyadmin/index.php?route=/database/structure&db=currency-converter
 > 7.update files C:\xampp\htdocs\currency-converter\wp-content\themes\twentytwentyfour\functions.php
 > 8.create currency-converter.js in same path
 > 9.and project run on localhost: http://localhost/currency-converter/currency-converter/
